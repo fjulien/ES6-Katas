@@ -1,5 +1,4 @@
-// 45: Map.prototype.get()
-link : http://tddbin.com/#?
+// 45: Map.prototype.get() link => http://tddbin.com/#?
 // To do: make all tests pass, leave the assert lines unchanged!
 // Follow the hints of the failure messages!
 
